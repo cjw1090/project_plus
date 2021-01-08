@@ -1,0 +1,26 @@
+.ma{
+    margin: 1em;
+}
+
+.imfo{
+    font-size: small;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.ma10{
+    margin: 10em;
+  }
+  
+.ma-r{
+    margin-right: 1em;
+}
+.ma-t{
+    margin-top: 1em;
+}
+
+a:hover{
+    text-decoration: none !important;
+}
